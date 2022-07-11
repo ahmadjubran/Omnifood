@@ -1,6 +1,6 @@
 # Omnifood
 
-Hi my name is ahmad
+Hello my name is mohammad
 
 A healthy meal delivered to your door, every single day
 
